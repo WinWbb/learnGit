@@ -1,4 +1,4 @@
 Git is a version control system
-Git is very free software
+Git is  free software distributed under the GPL
 Hello world
 My heart will be strong
